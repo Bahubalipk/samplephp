@@ -3,7 +3,7 @@
 <body>
 
 <?php
-echo "Bahubali is RRRR...CCCCC....BBBBB Fan";
+echo "Bahubali is RCB Fan";
 ?>
 
 </body>
