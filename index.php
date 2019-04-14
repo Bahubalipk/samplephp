@@ -3,8 +3,8 @@
 <body>
 
 <?php
-echo "Bahubali-AWS DeveOps";
+echo "Bahubali needs to practice-AWS DeveOps";
 ?>
-Bahubali-AWS DeveOps
+
 </body>
 </html>
